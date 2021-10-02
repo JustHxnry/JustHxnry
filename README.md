@@ -8,11 +8,11 @@
 
 ### Tools I use:
 
-<a href="https://code.visualstudio.com/" target="_blank"><img alt="Visual Studio Code" src="https://code.visualstudio.com/favicon.ico"></a>
-<a href="https://notepad-plus-plus.org/" target="_blank"><img alt="Notepad++" src="https://notepad-plus-plus.org/images/logo.svg"></a>
-<a href="https://nodejs.org" target="_blank"><img alt="NodeJS" src="https://nodejs.org/static/images/logo.svg"></a>
-<a href="https://replit.com/" target="_blank"><img alt="Repl It" src="https://replit.com/public/icons/favicon-196.png"></a>
-<a href="https://www.notion.so/" target="_blank"><img alt="Notion" src="https://www.notion.so/front-static/favicon.ico"></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img width="64px" height="64px" alt="Visual Studio Code" src="https://code.visualstudio.com/favicon.ico"></a>
+<a href="https://notepad-plus-plus.org/" target="_blank"><img width="64px" height="64px" alt="Notepad++" src="https://notepad-plus-plus.org/images/logo.svg"></a>
+<a href="https://nodejs.org" target="_blank"><img width="64px" height="64px" alt="NodeJS" src="https://nodejs.org/static/images/logo.svg"></a>
+<a href="https://replit.com/" target="_blank"><img width="64px" height="64px" alt="Repl It" src="https://replit.com/public/icons/favicon-196.png"></a>
+<a href="https://www.notion.so/" target="_blank"><img width="64px" height="64px" alt="Notion" src="https://www.notion.so/front-static/favicon.ico"></a>
 
 
 <br />
