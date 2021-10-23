@@ -24,6 +24,7 @@
 <a href="https://replit.com/" target="_blank"><img width="48px" height="48px" alt="Repl It" src="https://replit.com/public/icons/favicon-196.png"></a>
 <a href="https://www.notion.so/" target="_blank"><img width="48px" height="48px" alt="Notion" src="https://www.notion.so/front-static/favicon.ico"></a>
 <a href="https://www.php.net/" target="_blank"><img width="48px" height="48px" alt="PhP" src="https://www.php.net/favicon.ico"></a>
+<a href="https://www.microsoft.com/cs-cz/p/windows-terminal/9n0dx20hk701#activetab=pivot:overviewtab" target="_blank"><img width="48px" height="48px" alt="Windows Terminal" src="https://miro.medium.com/max/256/1*RuFsevFd1ypJClZSLKwugw.png"></a>
 
 
 <br />
