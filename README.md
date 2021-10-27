@@ -3,7 +3,7 @@
 ## I'm a Gamer, Developer and PC Lover
 
 - 🌱 I’m currently working on my projects
-- 🥅 2021 Goals: Complete my project maintenance list
+- 🥅 2021 Goals: ~~Complete my project maintenance list~~
 - ⚡ Fun fact: this is not funny
 
 ## Connect with me:
